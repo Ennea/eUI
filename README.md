@@ -10,7 +10,7 @@ eUI is a small collection of interface addons I've written for WoW v1.12.1. Most
 If you find any bugs or have any suggestions, please don't hesitate to open an issue.
 
 ### QoLI
-*Q*uality *o*f *L*ife *I*improvements is a collection of smaller featuers and bug fixes that did not warrant an addon of their own.\
+**Q**uality **o**f **L**ife **I**mprovements is a collection of smaller featuers and bug fixes that did not warrant an addon of their own.\
 It currently fixes the following bugs:
 * properly cleans up the quest watch list when turning in completed quests, allowing tracking of the maximum of 5 quests at all times
 
