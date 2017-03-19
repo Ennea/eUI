@@ -1,0 +1,12 @@
+## Interface: 11200
+## Title: |cff50FF9Fe|rActionBindings
+## Notes: Adds 12 buttons you can bind keys to without them being visible
+## Author: Ennea
+## Dependencies: !!LuaExtender
+## Version: 1.0
+
+libs\LibStub\LibStub.lua
+libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+libs\LibKeyBound-1.0\lib.xml
+
+eActionBindings.lua

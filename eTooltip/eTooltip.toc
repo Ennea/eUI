@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: |cff50FF9Fe|rTooltip
+## Notes: Adjustments to unit and item tooltips
+## Author: Ennea
+## Dependencies: !!LuaExtender
+## Version: 1.0
+
+eTooltip.lua

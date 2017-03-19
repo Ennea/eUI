@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: |cff50FF9Fe|rQuest
+## Notes: Quest related tweaks
+## Author: Ennea
+## Dependencies: !!LuaExtender
+## Version: 1.0
+
+eQuest.lua

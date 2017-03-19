@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: |cff50FF9Fe|rMinimap
+## Notes: Minimap adjustments
+## Author: Ennea
+## Dependencies: !!LuaExtender
+## Version: 1.0
+
+eMinimap.lua

@@ -1,0 +1,62 @@
+<Bindings>
+    <Binding name="EAB_BUTTON1" runOnUp="true" header="EAB">
+        if keystate == 'down' then
+            UseAction(109)
+        end
+    </Binding>
+    <Binding name="EAB_BUTTON2" runOnUp="true">
+        if keystate == 'down' then
+            UseAction(110)
+        end
+    </Binding>
+    <Binding name="EAB_BUTTON3" runOnUp="true">
+        if keystate == 'down' then
+            UseAction(111)
+        end
+    </Binding>
+    <Binding name="EAB_BUTTON4" runOnUp="true">
+        if keystate == 'down' then
+            UseAction(112)
+        end
+    </Binding>
+    <Binding name="EAB_BUTTON5" runOnUp="true">
+        if keystate == 'down' then
+            UseAction(113)
+        end
+    </Binding>
+    <Binding name="EAB_BUTTON6" runOnUp="true">
+        if keystate == 'down' then
+            UseAction(114)
+        end
+    </Binding>
+    <Binding name="EAB_BUTTON7" runOnUp="true">
+        if keystate == 'down' then
+            UseAction(115)
+        end
+    </Binding>
+    <Binding name="EAB_BUTTON8" runOnUp="true">
+        if keystate == 'down' then
+            UseAction(116)
+        end
+    </Binding>
+    <Binding name="EAB_BUTTON9" runOnUp="true">
+        if keystate == 'down' then
+            UseAction(117)
+        end
+    </Binding>
+    <Binding name="EAB_BUTTON10" runOnUp="true">
+        if keystate == 'down' then
+            UseAction(118)
+        end
+    </Binding>
+    <Binding name="EAB_BUTTON11" runOnUp="true">
+        if keystate == 'down' then
+            UseAction(119)
+        end
+    </Binding>
+    <Binding name="EAB_BUTTON12" runOnUp="true">
+        if keystate == 'down' then
+            UseAction(120)
+        end
+    </Binding>
+</Bindings>

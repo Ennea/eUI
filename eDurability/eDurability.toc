@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: |cff50FF9Fe|rDurability
+## Notes: Shows the durability of your equipped items in the character frame
+## Author: Ennea
+## Dependencies: !!LuaExtender
+## Version: 1.0
+
+eDurability.lua

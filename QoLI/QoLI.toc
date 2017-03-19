@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: |cff50FF9FQoLI|r
+## Notes: Many small changes to the default user interface. See readme.txt.
+## Author: Ennea
+## Dependencies: !!LuaExtender
+## Version: 1.0
+
+QoLI.lua
