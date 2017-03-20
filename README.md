@@ -69,6 +69,7 @@ Added "future" Lua functionality:
 * select()
 * print()
 * string.match()
+* math.modf()
 
 Non-standard Lua functions:
 * string.join(separator, ...) - joins arguments 2 to n using the given separator
