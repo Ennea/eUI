@@ -223,7 +223,7 @@ function get_unit_color(unit)
 end
 
 function update_unit_tooltip(self, unit)
-    if not UnitExists(unit) or IsShiftKeyDown() then
+    if not UnitExists(unit) then
         return
     end
 
@@ -638,10 +638,7 @@ function f:UPDATE_FACTION()
 end
 
 function f:UPDATE_MOUSEOVER_UNIT()
-    if not IsShiftKeyDown() then
-        -- GameTooltip:SetUnit('mouseover')
-        update_unit_tooltip(GameTooltip, 'mouseover')
-    end
+    update_unit_tooltip(GameTooltip, 'mouseover')
 end
 
 f:RegisterEvent('UPDATE_FACTION')

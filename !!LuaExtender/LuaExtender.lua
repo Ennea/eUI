@@ -81,6 +81,12 @@ _G['string'].trim = function(str)
 end
 
 -- math functions
+_G['math'].modf = function(number)
+    local fractional = math.mod(number, 1)
+    local integral = number - fractional
+    return integral, fractional
+end
+
 -- non-standard
 _G['math'].round = function(number, place)
     if not number or not place then
