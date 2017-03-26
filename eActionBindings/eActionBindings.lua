@@ -42,7 +42,6 @@ bindButton:SetHeight(20)
 eActionBindings_BindButtonText:SetText('Bind')
 bindButton:SetPoint('BOTTOMLEFT', f, 'BOTTOMLEFT', 20, 20)
 bindButton:SetScript('OnClick', function()
-    PlaySound('gsTitleOptionOK')
     LibKeyBound:Toggle()
 end)
 
