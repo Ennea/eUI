@@ -264,5 +264,7 @@ _G['UseItemByName'] = function(name)
     local bag, slot = GetContainerItemByName(name)
     if bag and slot then
         UseContainerItem(bag, slot)
+    else
+        UIErrorsFrame:AddMessage(ERR_ITEM_NOT_FOUND, 1, 0.1, 0.1)
     end
 end
