@@ -1,7 +1,11 @@
 ## Interface: 11200
 ## Title: !!|cff50FF9FLua|rExtender
+## Title: !!|cff50FF9FLua|rРасширитель
 ## Notes: Extend the 1.12.1 Lua API by some functions that were only added in later patches, and some more
+## Notes-ruRU: Расширить API Lua 1.12.1 некоторыми функциями, которые были добавлены только в более поздних патчах, и некоторыми другими.
 ## Author: Ennea
 ## Version: 1.0
+## X-Category: Library
+## X-Website: https://github.com/Ennea/eUI
 
 LuaExtender.lua
